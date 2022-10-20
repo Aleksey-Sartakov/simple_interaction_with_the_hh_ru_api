@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Smart_assistant/.idea/Smart_assistant.iml" filepath="$PROJECT_DIR$/../Smart_assistant/.idea/Smart_assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab1_interfaces_hh_api.iml" filepath="$PROJECT_DIR$/.idea/lab1_interfaces_hh_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Компьютерная графика/Лаб_1/.idea/Лаб_1.iml" filepath="$PROJECT_DIR$/../../../Компьютерная графика/Лаб_1/.idea/Лаб_1.iml" />
+    </modules>
+  </component>
+</project>
